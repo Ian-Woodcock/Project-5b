@@ -1,0 +1,159 @@
+Day 1 starts.
+
+ Hour 800.
+Ian the Manager arrives and opens the store.
+Rex the Cat says 'Meow'
+Small Cat the Cat says 'Meow'
+Bean the Cat says 'Meow'
+Percy the Dog says 'Woof'
+Oliver the Dog says 'Woof'
+Bailey the Dog says 'Woof'
+
+ Hour 900.
+Caden the Clerk arrives.
+Caden the Clerk feeds the animals.
+Rex the Cat is eating.
+Small Cat the Cat is eating.
+Bean the Cat is eating.
+Percy the Dog is eating.
+Oliver the Dog is eating.
+Bailey the Dog is eating.
+
+ Hour 1100.
+Caden the Clerk plays with the animals.
+Rex the Cat is chasing a laser.
+Small Cat the Cat is chasing a laser.
+Bean the Cat is chasing a laser.
+Percy the Dog is playing fetch.
+Oliver the Dog is playing fetch.
+Bailey the Dog is playing fetch.
+
+ Hour 1200.
+Ian the Manager is having lunch.
+
+ Hour 1300.
+Caden the Clerk is having lunch.
+
+ Hour 1600.
+Caden the Clerk attempts to sell animals.
+Oliver the Dog has been sold. A new dog is now available.
+
+ Hour 1700.
+Caden the Clerk leaves.
+
+ Hour 1800.
+Ian the Manager closes the store.
+Rex is sleeping.
+Small Cat is sleeping.
+Bean is sleeping.
+Percy is sleeping.
+New Dog is sleeping.
+Bailey is sleeping.
+Ian the Manager leaves.
+Day 2 ends.
+
+Day 2 starts.
+
+ Hour 800.
+Ian the Manager arrives and opens the store.
+Rex the Cat says 'Meow'
+Small Cat the Cat says 'Meow'
+Bean the Cat says 'Meow'
+Percy the Dog says 'Woof'
+Oliver the Dog says 'Woof'
+Bailey the Dog says 'Woof'
+
+ Hour 900.
+Caden the Clerk arrives.
+Caden the Clerk feeds the animals.
+Rex the Cat is eating.
+Small Cat the Cat is eating.
+Bean the Cat is eating.
+Percy the Dog is eating.
+Oliver the Dog is eating.
+Bailey the Dog is eating.
+
+ Hour 1100.
+Caden the Clerk plays with the animals.
+Rex the Cat is chasing a laser.
+Small Cat the Cat is chasing a laser.
+Bean the Cat is chasing a laser.
+Percy the Dog is playing fetch.
+Oliver the Dog is playing fetch.
+Bailey the Dog is playing fetch.
+
+ Hour 1200.
+Ian the Manager is having lunch.
+
+ Hour 1300.
+Caden the Clerk is having lunch.
+
+ Hour 1600.
+Caden the Clerk attempts to sell animals.
+
+ Hour 1700.
+Caden the Clerk leaves.
+
+ Hour 1800.
+Ian the Manager closes the store.
+Rex is sleeping.
+Small Cat is sleeping.
+Bean is sleeping.
+Percy is sleeping.
+Oliver is sleeping.
+Bailey is sleeping.
+Ian the Manager leaves.
+Day 3 ends.
+
+Day 3 starts.
+
+ Hour 800.
+Ian the Manager arrives and opens the store.
+Rex the Cat says 'Meow'
+Small Cat the Cat says 'Meow'
+Bean the Cat says 'Meow'
+Percy the Dog says 'Woof'
+Oliver the Dog says 'Woof'
+Bailey the Dog says 'Woof'
+
+ Hour 900.
+Caden the Clerk arrives.
+Caden the Clerk feeds the animals.
+Rex the Cat is eating.
+Small Cat the Cat is eating.
+Bean the Cat is eating.
+Percy the Dog is eating.
+Oliver the Dog is eating.
+Bailey the Dog is eating.
+
+ Hour 1100.
+Caden the Clerk plays with the animals.
+Rex the Cat is chasing a laser.
+Small Cat the Cat is chasing a laser.
+Bean the Cat is chasing a laser.
+Percy the Dog is playing fetch.
+Oliver the Dog is playing fetch.
+Bailey the Dog is playing fetch.
+
+ Hour 1200.
+Ian the Manager is having lunch.
+
+ Hour 1300.
+Caden the Clerk is having lunch.
+
+ Hour 1600.
+Caden the Clerk attempts to sell animals.
+
+ Hour 1700.
+Caden the Clerk leaves.
+
+ Hour 1800.
+Ian the Manager closes the store.
+Rex is sleeping.
+Small Cat is sleeping.
+Bean is sleeping.
+Percy is sleeping.
+Oliver is sleeping.
+Bailey is sleeping.
+Ian the Manager leaves.
+Day 4 ends.
